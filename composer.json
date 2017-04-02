@@ -1,0 +1,9 @@
+{
+"require": {
+        "php-amqplib/php-amqplib": "2.5.*",
+	"guzzlehttp/guzzle": "~6.0",
+	"laravel/framework": "4.2."
+    }
+}
+
+
